@@ -1,0 +1,8 @@
+.title{
+    width: 350px;
+    height: 220px;
+ margin-top: 30px;
+ padding: 15px 10px 20px 10px;
+ border:red dashed  2px;
+ background-color: green;
+}
